@@ -1,0 +1,23 @@
+{
+  "name": "wise_me_front_end",
+  "version": "1.0.0",
+  "description": "placeholder for wise.me backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurelmachak/wise_me_front_end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurelmachak/wise_me_front_end/issues"
+  },
+  "homepage": "https://github.com/laurelmachak/wise_me_front_end#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  }
+}

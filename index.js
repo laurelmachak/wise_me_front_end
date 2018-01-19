@@ -17,6 +17,10 @@ app.get('/', function (req, res){
     res.render('landing');
 });
 
+app.get('/topics', function (req, res){
+    res.render('topics');
+});
+
 app.get('/user/profile', function (req, res){
     res.render('user-profile.hbs');
 });
